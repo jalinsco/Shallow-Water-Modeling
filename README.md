@@ -1,24 +1,24 @@
-# Shallow-Wetland-Modeling
+## Shallow-Water-Modeling
 ![R](https://img.shields.io/badge/language-R-blue)
 
-## Overview
+### Overview
 
 This draft repository is a companion to two in-progress manuscripts. 
 
-The first manuscript, "Mapping Shallow Wetlands for Wildlife Conservation", outlines an approach for identifying shallow freshwater wetlands at landscape scales.
+The first manuscript, "Mapping Shallow Wetlands for Wildlife Conservation", outlines an approach for identifying shallowly flooded areas in freshwater wetlands of the Prairie Pothole Region at landscape scales.
 
 The second manuscript, "Opportunistic Stopovers by Hudsonian Godwits Limosa haemaestica in a Midcontinental Agricultural Landscape," incorporates these and other predictions into habitat modeling for a migratory shorebird species.
 
 <br/>
 
-## Repository contents
+### Repository contents
 
 - 'scripts/' contains python and R scripts for data processing
 - 'data/' contains analysis-ready tabular data and GIS vector files
 
 <br/>
 
-## Scripts
+### Scripts
 
 - 'Shallow Wetlands/'
 	- '01_rasters_to_superpixels.R' demonstrates conversion surface reflectance rasters to l*A*B-based superpixels 
@@ -31,7 +31,7 @@ The second manuscript, "Opportunistic Stopovers by Hudsonian Godwits Limosa haem
 
 <br/>
 
-## Acknowledgements
+### Acknowledgements
 
 Code development was supported by a NASA FINESST award (#21-Earth210-0404) and a University of Massachusetts Amherst Agricultural Experiment Station Grant (#MAS00592). 
 
