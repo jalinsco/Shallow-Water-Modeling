@@ -20,7 +20,7 @@ The second manuscript, "Opportunistic Stopovers by Hudsonian Godwits Limosa haem
 
 ### Scripts
 
-- 'Shallow Wetlands/'
+- 'Shallow Water/'
 	- '01_rasters_to_superpixels.R' demonstrates conversion surface reflectance rasters to l*A*B-based superpixels 
 	- '02_probability_forest_models.R' fits three competing models for shallow water detection
 	- '03_climate_predictions.R' evaluates the influence of climate on shallow water area
